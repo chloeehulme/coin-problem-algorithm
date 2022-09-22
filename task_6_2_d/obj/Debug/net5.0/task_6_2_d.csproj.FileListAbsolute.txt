@@ -1,0 +1,15 @@
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/bin/Debug/net5.0/task_6_2_d.deps.json
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/bin/Debug/net5.0/task_6_2_d.runtimeconfig.json
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/bin/Debug/net5.0/task_6_2_d.runtimeconfig.dev.json
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/bin/Debug/net5.0/task_6_2_d.dll
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/bin/Debug/net5.0/ref/task_6_2_d.dll
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/bin/Debug/net5.0/task_6_2_d.pdb
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/obj/Debug/net5.0/task_6_2_d.csproj.AssemblyReference.cache
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/obj/Debug/net5.0/task_6_2_d.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/obj/Debug/net5.0/task_6_2_d.AssemblyInfoInputs.cache
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/obj/Debug/net5.0/task_6_2_d.AssemblyInfo.cs
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/obj/Debug/net5.0/task_6_2_d.csproj.CoreCompileInputs.cache
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/obj/Debug/net5.0/task_6_2_d.dll
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/obj/Debug/net5.0/ref/task_6_2_d.dll
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/obj/Debug/net5.0/task_6_2_d.pdb
+/Users/chloehulme/Documents/SIT221/task_6_2_d/task_6_2_d/obj/Debug/net5.0/task_6_2_d.genruntimeconfig.cache

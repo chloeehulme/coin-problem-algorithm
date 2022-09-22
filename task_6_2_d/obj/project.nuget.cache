@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7PusFtCUnJfJ2qxTDH1NR6TuEgc25VnnyxpAf6DibUBLj2GQHFp+1FogE/rhJ6ZvxEgOcU75qTvm7kkW9OxnhQ==",
+  "success": true,
+  "projectFilePath": "/Users/chloehulme/Desktop/box_of_coins_alg/task_6_2_d/box_of_coins_alg.csproj",
+  "expectedPackageFiles": [
+    "/Users/chloehulme/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/chloehulme/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/chloehulme/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
